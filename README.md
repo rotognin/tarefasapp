@@ -1,6 +1,7 @@
 ## TarefasApp
 
-Projeto simples em Laravel onde estou aprendendo a usar o framework.
+Projeto simples em Laravel onde estou aprendendo a usar o framework. 
+Este projeto consiste em um cadastro simples de tarefas desenvolvidas.
 
 O que me chamou muito a atenção foi a documentação do framework que é bem explicativa e com muitos exemplos.
 
